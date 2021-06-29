@@ -1,0 +1,26 @@
+.card {
+    flex-direction: row;
+    align-items: center;
+}
+
+.card__image {
+    width: 70px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.card__name {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.card__twitter {
+    color: rgb(0, 140, 255);
+}
+
+.card__twitter svg {
+    margin-right: 5px;
+}
+
+.card__job {
+    font-size: 13px;
+}
